@@ -1,0 +1,53 @@
+.first-font {
+    font: 15px Arial, sans-serif;
+}
+
+.second-font {
+    font: italic bold 30px Impact, serif;
+}
+
+.small-pic {
+    width:50px; 
+    height:50px;
+}
+
+.container {
+    box-shadow: 5px 5px 5px #888888;
+}
+
+.color-text {
+    color: purple;
+}
+
+.centered-pic {
+    width:500px; 
+    height:331px; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.margin-pic {
+    width:500px; 
+    height:281px; 
+    margin: 20px;
+}
+
+.dotted-text {
+    border-style: dotted;
+    padding-left: 10px;
+}
+
+.floated-text {
+    float: right;
+}
+
+.rounded-pic {
+    border-radius: 25px;
+    width: 500px;
+    height: 313px;
+}
